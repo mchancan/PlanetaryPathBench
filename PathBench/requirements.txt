@@ -1,0 +1,15 @@
+torch
+numpy
+matplotlib
+nptyping
+panda3d
+pandas
+sklearn
+torchvision
+memory_profiler
+seaborn
+dill
+natsort
+screeninfo
+opencv-python
+lru-dict

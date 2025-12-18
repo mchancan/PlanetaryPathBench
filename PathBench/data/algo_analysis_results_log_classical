@@ -1,0 +1,71 @@
+
+[2025-12-18 14:40:06] - Starting basic analysis: number of maps = 7, number of algorithms = 1
+
+[2025-12-18 14:40:06] - 0. AStar
+[2025-12-18 14:44:41] - Rate of success: 100.0%, (A*: 100.0%), (Improvement: 0.0%)
+[2025-12-18 14:44:41] - Average total steps: 602.14, (A*: 602.14), (Improvement: -0.0%)
+[2025-12-18 14:44:41] - Average total distance: 731.62, (A*: 731.62), (Improvement: -0.0%)
+[2025-12-18 14:44:41] - Average trajectory smoothness: 0.25, (A*: 0.25), (Improvement: -0.0%)
+[2025-12-18 14:44:41] - Average trajectory clearance: 1.36, (A*: 1.36), (Improvement: -0.0%)
+[2025-12-18 14:44:41] - Average time: 37.0078 seconds, (A*: 37.0078 seconds), (Improvement: -0.0%)
+[2025-12-18 14:44:41] - Average distance from goal: 0.0, (A*: 0.0), (Improvement: 0%) (Average original distance from goal: 596.48)
+
+
+\begin{table}[] 
+\footnotesize 
+\centering
+
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Nr.} & \textbf{Algorithm Type} & \textbf{Training Data}\\
+\hline
+0 & Wrapped\_AStar & n/a\\
+\hline
+\end{tabular}
+
+
+\bigskip
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{Nr.} & \textbf{Success Rate} & \textbf{Distance} & \textbf{Time} & \textbf{Distance Left}\\
+\hline
+0 & 100.0\% (I: 0.0\%) & 731.62 (A*: 731.62) (I: -0.0\%) & 37.0078s & 0.0\\
+\hline
+\end{tabular}
+
+
+\bigskip
+
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Nr.} & \textbf{Pick Ratio}\\
+\hline
+\end{tabular}
+
+
+\bigskip
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\textbf{Nr.} & \textbf{GK Improvement} & \textbf{GK Distance} & \textbf{GK Distance Left} & \textbf{WP} & \textbf{WP In-Between Distance}\\
+\hline
+\end{tabular}
+
+
+\bigskip
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{Nr.} & \textbf{Total Search} & \textbf{Total Fringe} & \textbf{Session Search} & \textbf{Session Fringe}\\
+\hline
+0 & nan\% & n/a & nan\% & n/a\\
+\hline
+\end{tabular}
+
+
+\caption{} 
+\label{tab:my_label} 
+\end{table}
+
