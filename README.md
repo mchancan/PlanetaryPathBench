@@ -40,3 +40,11 @@ Full dataset used in paper experiments:
 Test run with background images:
 
 	python run.py   --data-dir Datasets/MoonPlanBench/Background/npy   --background-png-dir Datasets/MoonPlanBench/Background/jpeg --moon
+
+
+# Acknowledgements
+
+This code is based on the following repositories:
+
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/tree/master/PathPlanning)
+- [PathBench](https://github.com/perfectly-balanced/PathBench)
